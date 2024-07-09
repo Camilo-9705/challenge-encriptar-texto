@@ -17,7 +17,7 @@ main{
     margin-left: 80px;
     justify-content: center;
 }
-.entrada__texto{
+.entrada-texto{
     resize: none;
     margin-top: 90px;
     color: darkblue;
@@ -29,7 +29,7 @@ main{
 .entrada-texto:focus{
     outline:  none;
 }
-.salida__texto{
+.salida-texto{
     resize: none;
     margin-left: 98px;
     padding: 20px;
@@ -44,7 +44,7 @@ main{
     border-radius: 32px;
     box-shadow: 0 24px 32px -8px rgba(0, 0, 0, 0.08);
 }
-.salida__texto:focus{
+.salida-texto:focus{
     outline: none;
 }
 .restriccion{
@@ -128,7 +128,7 @@ footer{
     padding: 15px;
 }
 
-/* Laptop*/
+/* Laptop */
 @media screen and (max-width: 1366px) {
     main{
         margin-left: 0px;
